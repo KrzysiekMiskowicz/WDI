@@ -22,8 +22,10 @@ def czy_pierwsza(n):
 for i in range(1, 100):
     print(i, czy_pierwsza(i))
 """
-k = 10
-for i in range(k):
-    print(i)
-    print(k)
-    k -= 1
+def decrement(n):
+    return n-1
+
+n = 5
+print(n)
+print(decrement(n))
+print(n)

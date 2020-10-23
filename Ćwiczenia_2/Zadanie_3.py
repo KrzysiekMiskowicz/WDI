@@ -1,3 +1,4 @@
+'''
 liczba = int(input("Podaj liczbę "))
 odp_10 = True
 licznik_cyfr = 0
@@ -31,4 +32,23 @@ while licznik_bitow > waga_bitow:
 
 print("Palindrom w systemie 10:", odp_10)
 print("Palindrom w systemie 2:", odp_2)
+'''
 
+number = int(input("Podaj liczbę "))
+reverse = 0
+temp_number = number
+while temp_number > 0:
+    reverse = 10*reverse + temp_number%10
+    temp_number //= 10
+
+print(reverse == number)
+
+end = None
+reverse = 0
+temp_number = number
+while temp_number > 0:
+    reverse = (reverse << 1) + temp_number % 2
+    temp_number //= 2
+
+print(reverse == number)
+print(bin(number))

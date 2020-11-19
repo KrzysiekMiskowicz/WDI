@@ -1,10 +1,3 @@
-"""
-a = 600
-b = 100
-while a+b <= 2020:
-    print(a+b)
-    a, b = a+b, a
-"""
 min_suma = 5000
 for a1 in range(1, 1010):
     if a1 > int(min_suma/2):

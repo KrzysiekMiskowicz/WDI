@@ -34,6 +34,7 @@ mask: int = 1
 for mask in range(1, 1 << (int(math.log10(num)) + 1)):
     print(bin(mask))
 '''
+'''
 liczba = 2315
 wynik = 0
 maska = 1
@@ -55,6 +56,13 @@ while maska in range(1, 1 << int(math.log10(liczba) + 1)):
     maska += 1
 
 print(wynik)
-
+'''
+a = 15
+tmp_a = a
+reverse_a = 0
+while tmp_a > 0:
+    reverse_a = reverse_a*10 + tmp_a % 10
+    tmp_a //= 10
+print(reverse_a)
 
 

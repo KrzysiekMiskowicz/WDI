@@ -2,54 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abb2c9d2-b6d8-40da-b026-9a21d5560e64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadane_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/Czynniki_pierwsze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/Konwersja_systemu_liczbowego.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/Liczba_pierwsza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funkcje/Listy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolokwium_2/zad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolokwium_2/zad4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolokwium_2/zadanie_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolokwium_3/egzamin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolokwium_3/zad5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolokwium_3/zad6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2017/Kolos_2/zad_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2019/Kolos_1/Zad_1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2019/Kolos_1/Zad_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2019/Kolos_1/Zad_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2019/Kolos_1/Zad_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2019/Kolos_1/Zad_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2019/Kolos_1/Zad_3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2019/Kolos_2/zad_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2019/Kolos_2/zad_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2019/Kolos_2/zad_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolosy_2020/zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolosy_2020/zad1_poprawa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolosy_2020/zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolosy_2020/zad2_poprawa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Mutowanie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/LinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadania_Podstawowe/Zadanie_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadania_Podstawowe/Zadanie_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadania_Podstawowe/Zadanie_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadania_Podstawowe/Zadanie_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadania_Podstawowe/Zadanie_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WDI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WDI.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ćwiczenia_1/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia_1/Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ćwiczenia_1/Zadanie_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia_1/Zadanie_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ćwiczenia_2/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia_2/Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ćwiczenia_2/Zadanie_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia_2/Zadanie_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ćwiczenia_3/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia_3/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ćwiczenia_3/Zadane_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_20.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,32 +99,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_9.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ćwiczenia_2/Zadanie_5.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_12.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-77" />
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -105,65 +121,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Ćwiczenia_2/Zadanie_16.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_2.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_4.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_6.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_7.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_8.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadane_10.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_11.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_13.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_14.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_15.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_16.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_17.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_18.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Test.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_1.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_2.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_3.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_4.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_5.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_5.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_9.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_6.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_8.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_9.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_10.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_11.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_12.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_13.py" />
-        <option value="$PROJECT_DIR$/Zadanie_14.py" />
-        <option value="$PROJECT_DIR$/Zadanie_15.py" />
-        <option value="$PROJECT_DIR$/Zadanie_18.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_19.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_20.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_4/Zadanie_7.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_1.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_2.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_5/Zadane_3.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_3.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_4.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_5.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_6.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_5/Zadanie_7.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_1/Zadanie_2.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_1/Test.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_2/Zadanie_3.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_2/Test.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_1.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_3.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_3/Zadanie_12.py" />
-        <option value="$PROJECT_DIR$/Ćwiczenia_2/Zadanie_5.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_7.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_8.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_9.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_10.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_11.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_5.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_7.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_8.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_10.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_11.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_12.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_20.py" />
+        <option value="$PROJECT_DIR$/Funkcje/Czynniki_pierwsze.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_22.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_2.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_23.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_28.py" />
+        <option value="$PROJECT_DIR$/Kolos_2019/Zad_3.py" />
+        <option value="$PROJECT_DIR$/Kolos_2019/Zad_3_2.py" />
+        <option value="$PROJECT_DIR$/Kolokwium_2.py" />
+        <option value="$PROJECT_DIR$/Kolokwium_2/zad_1.py" />
+        <option value="$PROJECT_DIR$/Kolokwium_2/zad_2.py" />
+        <option value="$PROJECT_DIR$/Kolokwium_2/zadanie_4.py" />
+        <option value="$USER_HOME$/Downloads/zad4.py" />
+        <option value="$PROJECT_DIR$/Kolokwium_2/zad.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_12.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_13.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_15.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_16.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_18.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_9.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Mutowanie.py" />
+        <option value="$PROJECT_DIR$/Kolokwium_2/zad4.py" />
+        <option value="$PROJECT_DIR$/Kolos_2019/Zgodnosc_5.py" />
+        <option value="$PROJECT_DIR$/Kolos_2019/Kolos_2/zad_2.py" />
+        <option value="$PROJECT_DIR$/Kolos_2019/Kolos_2/zad_1.py" />
+        <option value="$PROJECT_DIR$/Funkcje/Konwersja_systemu_liczbowego.py" />
+        <option value="$PROJECT_DIR$/Kolos_2019/Kolos_2/zad_3.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_17.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_19.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_20.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_21.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_22.py" />
+        <option value="$PROJECT_DIR$/Funkcje/Liczba_pierwsza.py" />
+        <option value="$PROJECT_DIR$/Kolos_2017/Kolos_2/zad_2.py" />
+        <option value="$PROJECT_DIR$/Funkcje/Listy.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_15.py" />
+        <option value="$PROJECT_DIR$/Kolokwium_3/zad6.py" />
+        <option value="$PROJECT_DIR$/Kolokwium_3/zad5.py" />
+        <option value="$PROJECT_DIR$/Kolokwium_3/egzamin.py" />
+        <option value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/LinkedList.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="874" />
-    <option name="height" value="269" />
+    <option name="height" value="531" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -181,12 +196,12 @@
             <path>
               <item name="WDI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WDI" type="462c0819:PsiDirectoryNode" />
-              <item name="Ćwiczenia_2" type="462c0819:PsiDirectoryNode" />
+              <item name="Ćwiczenia_4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WDI" type="b2602c69:ProjectViewProjectNode" />
               <item name="WDI" type="462c0819:PsiDirectoryNode" />
-              <item name="Ćwiczenia_4" type="462c0819:PsiDirectoryNode" />
+              <item name="Ćwiczenia_5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,7 +216,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ja\Desktop\Informatyka\WDI\Ćwiczenia_4" />
+      <recent name="C:\Users\Ja\Desktop\Informatyka\WDI\Kolos_2019\Kolos_2" />
+      <recent name="C:\Users\Ja\Desktop\Informatyka\WDI\Kolos_2019\Kolos_1" />
+      <recent name="C:\Users\Ja\Desktop\Informatyka\WDI\Ćwiczenia_9_&amp;_10\Zadania_Podstawowe" />
+      <recent name="C:\Users\Ja\Desktop\Informatyka\WDI\Kolosy_2020" />
+      <recent name="C:\Users\Ja\Desktop\Informatyka\WDI\Kolos_2019" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -216,8 +235,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Zadanie_5">
-    <configuration name="Test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.egzamin">
+    <configuration name="Zadanie_15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WDI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ćwiczenia_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ćwiczenia_2/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Zadanie_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WDI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,11 +265,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ćwiczenia_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ćwiczenia_1/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zadanie_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="egzamin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WDI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ćwiczenia_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kolokwium_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ćwiczenia_1/Zadanie_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kolokwium_3/egzamin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +299,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zadanie_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zad5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WDI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,11 +307,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ćwiczenia_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kolokwium_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ćwiczenia_2/Zadanie_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kolokwium_3/zad5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,7 +320,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zadanie_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zad6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WDI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,11 +328,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ćwiczenia_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kolokwium_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ćwiczenia_2/Zadanie_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kolokwium_3/zad6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Zadanie_5" />
-        <item itemvalue="Python.Zadanie_8" />
-        <item itemvalue="Python.Test (1)" />
-        <item itemvalue="Python.Test" />
-        <item itemvalue="Python.Zadanie_2" />
+        <item itemvalue="Python.egzamin" />
+        <item itemvalue="Python.zad5" />
+        <item itemvalue="Python.zad6" />
+        <item itemvalue="Python.Zadanie_4" />
+        <item itemvalue="Python.Zadanie_15" />
       </list>
     </recent_temporary>
   </component>
@@ -345,12 +364,21 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" weight="0.32980332" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16111952" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18986385" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5015129" side_tool="true" weight="0.3289689" />
@@ -358,20 +386,20 @@
       <window_info anchor="bottom" id="Python Console" order="3" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.3289689" />
-      <window_info anchor="bottom" auto_hide="true" x="22" y="73" width="1322" height="581" id="Run" order="6" sideWeight="0.49924356" type="SLIDING" weight="0.24549918" />
+      <window_info active="true" anchor="bottom" auto_hide="true" x="22" y="73" width="1322" height="581" id="Run" order="6" sideWeight="0.49924356" type="SLIDING" visible="true" weight="0.38297874" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39770868" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3289689" />
       <window_info anchor="right" id="R Graphics" order="0" weight="0.32980332" />
-      <window_info anchor="right" id="R Packages" order="1" weight="0.32980332" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="R Packages" order="4" visible="true" weight="0.022692889" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" weight="0.32980332" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15658094" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14447807" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5015129" side_tool="true" weight="0.3289689" />
@@ -379,311 +407,305 @@
       <window_info anchor="bottom" id="Python Console" order="3" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.3289689" />
-      <window_info anchor="bottom" auto_hide="true" x="22" y="73" width="1322" height="581" id="Run" order="6" sideWeight="0.49924356" type="SLIDING" weight="0.24549918" />
+      <window_info anchor="bottom" auto_hide="true" x="22" y="73" width="1322" height="581" id="Run" order="6" sideWeight="0.49924356" type="SLIDING" weight="0.38297874" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39770868" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3289689" />
       <window_info anchor="right" id="R Graphics" order="0" weight="0.32980332" />
-      <window_info anchor="right" id="R Packages" order="1" weight="0.32980332" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="R Packages" order="4" weight="0.32980332" />
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_12.py">
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
+        <state relative-caret-position="-437" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Programowanie/Python/SPOJ/Dziedziczenie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_5/Zadanie_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="22" selection-end-line="91" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_5/Zadanie_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_5/Zadanie_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_5/Zadanie_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_5/Zadanie_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_5/Zadanie_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="29" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_5/Zadanie_7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_1/Zadanie_1.py">
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_10.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_1/Zadanie_3.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_1/Podciąg_Fibonacciego.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_1/Zadanie_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_1/Zadanie_12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_1/Zadanie_9.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_1/Zadanie_19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_1/Zadanie_15.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_1/Zadanie_16.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_1/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_2/Zadanie_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="45" column="10" lean-forward="true" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_2/Zadanie_4.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_2/Zadanie_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_2/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_2/Zadanie_8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_2/Zadanie_9.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_2/Zadanie_13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="38" column="60" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_2/Zadanie_16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_2/Zadanie_23.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_3/Zadanie_2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_3/Zadanie_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_3/Zadanie_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_3/Zadanie_8.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_3/Zadanie_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_3/Zadanie_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_3/Zadanie_9.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_3/Zadanie_11.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_3/Zadanie_12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_3/Zadanie_13.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_3/Zadanie_14.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_3/Zadanie_18.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_9.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ćwiczenia_2/Zadanie_5.py">
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_18.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_19.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_8.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_11.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Mutowanie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_13.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_21.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kolos_2019/Kolos_1/Zad_3_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funkcje/Konwersja_systemu_liczbowego.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kolos_2019/Kolos_2/zad_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="94" column="8" lean-forward="true" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="85" column="9" lean-forward="true" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_99.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="105" column="12" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funkcje/Liczba_pierwsza.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="28" lean-forward="true" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kolokwium_2/zad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="53" lean-forward="true" selection-start-line="33" selection-start-column="53" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kolokwium_2/zadanie_4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kolokwium_2/zad4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kolos_2017/Kolos_2/zad_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kolos_2019/Kolos_2/zad_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_6_&amp;_7/Zadanie_15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="78" column="16" lean-forward="true" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-316" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_13.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_1/Zadanie_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="51" selection-start-line="65" selection-start-column="51" selection-end-line="65" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kolokwium_3/zad6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/zad6.py" />
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadania_Podstawowe/Zadanie_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-509">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kolos_2019/Kolos_2/zad_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="143" column="9" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kolokwium_3/zad5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kolokwium_3/egzamin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_5/Zadanie_5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/LinkedList.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_9_&amp;_10/Zadanie_Dodatkowe/Zadanie_18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funkcje/Listy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="95" column="10" selection-start-line="95" selection-start-column="10" selection-end-line="95" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ćwiczenia_4/Zadanie_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77" />
+      </provider>
     </entry>
   </component>
 </project>
